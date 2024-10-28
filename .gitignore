@@ -1,0 +1,9 @@
+# 環境変数ファイル
+.env
+
+# Pythonキャッシュファイル
+__pycache__/
+*.py[cod]
+
+# VSCode設定ファイル
+.vscode/
